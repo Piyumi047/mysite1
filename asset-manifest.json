@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/mysite1/static/css/main.1b774a44.chunk.css",
-    "main.js": "/mysite1/static/js/main.f8269e96.chunk.js",
-    "main.js.map": "/mysite1/static/js/main.f8269e96.chunk.js.map",
-    "runtime-main.js": "/mysite1/static/js/runtime-main.12223213.js",
-    "runtime-main.js.map": "/mysite1/static/js/runtime-main.12223213.js.map",
+    "main.js": "/mysite1/static/js/main.d560cdc3.chunk.js",
+    "main.js.map": "/mysite1/static/js/main.d560cdc3.chunk.js.map",
+    "runtime-main.js": "/mysite1/static/js/runtime-main.95a78fd7.js",
+    "runtime-main.js.map": "/mysite1/static/js/runtime-main.95a78fd7.js.map",
     "static/css/2.da1eef19.chunk.css": "/mysite1/static/css/2.da1eef19.chunk.css",
-    "static/js/2.32b461ea.chunk.js": "/mysite1/static/js/2.32b461ea.chunk.js",
-    "static/js/2.32b461ea.chunk.js.map": "/mysite1/static/js/2.32b461ea.chunk.js.map",
-    "static/js/3.5885adcb.chunk.js": "/mysite1/static/js/3.5885adcb.chunk.js",
-    "static/js/3.5885adcb.chunk.js.map": "/mysite1/static/js/3.5885adcb.chunk.js.map",
+    "static/js/2.87f475cb.chunk.js": "/mysite1/static/js/2.87f475cb.chunk.js",
+    "static/js/2.87f475cb.chunk.js.map": "/mysite1/static/js/2.87f475cb.chunk.js.map",
+    "static/js/3.1aa11c3c.chunk.js": "/mysite1/static/js/3.1aa11c3c.chunk.js",
+    "static/js/3.1aa11c3c.chunk.js.map": "/mysite1/static/js/3.1aa11c3c.chunk.js.map",
     "index.html": "/mysite1/index.html",
     "static/css/2.da1eef19.chunk.css.map": "/mysite1/static/css/2.da1eef19.chunk.css.map",
     "static/css/main.1b774a44.chunk.css.map": "/mysite1/static/css/main.1b774a44.chunk.css.map",
-    "static/js/2.32b461ea.chunk.js.LICENSE.txt": "/mysite1/static/js/2.32b461ea.chunk.js.LICENSE.txt",
+    "static/js/2.87f475cb.chunk.js.LICENSE.txt": "/mysite1/static/js/2.87f475cb.chunk.js.LICENSE.txt",
     "static/media/App.css": "/mysite1/static/media/background2.74595186.jpg",
     "static/media/cinema.0417e458.png": "/mysite1/static/media/cinema.0417e458.png",
     "static/media/grennnest.3b9e6f6e.PNG": "/mysite1/static/media/grennnest.3b9e6f6e.PNG",
@@ -27,10 +27,10 @@
     "static/media/watch.bee2d41b.png": "/mysite1/static/media/watch.bee2d41b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.12223213.js",
+    "static/js/runtime-main.95a78fd7.js",
     "static/css/2.da1eef19.chunk.css",
-    "static/js/2.32b461ea.chunk.js",
+    "static/js/2.87f475cb.chunk.js",
     "static/css/main.1b774a44.chunk.css",
-    "static/js/main.f8269e96.chunk.js"
+    "static/js/main.d560cdc3.chunk.js"
   ]
 }
